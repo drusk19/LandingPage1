@@ -2092,6 +2092,29 @@ body {
     margin: 0 0.5rem;
   }
 }
+.cid-r01uuuOZuM {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: #ffffff;
+}
+.cid-r01uuuOZuM [class^="socicon-"]:before,
+.cid-r01uuuOZuM [class*=" socicon-"]:before {
+  line-height: 44px;
+}
+.cid-r01uuuOZuM .btn-social {
+  border-color: #ffc302;
+}
+.cid-r01uuuOZuM .btn-social:hover {
+  background: #ffc302;
+}
+.cid-r01uuuOZuM .btn-social:hover i.socicon {
+  color: #000000 !important;
+}
+@media (max-width: 767px) {
+  .cid-r01uuuOZuM .btn {
+    font-size: 20px !important;
+  }
+}
 .cid-qYCzXFrB5z {
   padding-top: 30px;
   padding-bottom: 30px;
